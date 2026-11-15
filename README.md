@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C1440E&background=00000000&center=true&vCenter=true&width=680&lines=booting+tanisha-devs...;loading+kernel+modules%3A+mern%2C+aws%2C+devops;system+ready." alt="boot banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C1440E&background=00000000&center=true&vCenter=true&width=680&lines=booting+Tanisha-codess...;loading+kernel+modules%3A+mern%2C+aws%2C+devops;system+ready." alt="boot banner" />
 
 <br/>
 
@@ -115,11 +115,11 @@ achievements:
 
 ### `/dev/metrics`
 
-<img height="165" src="https://streak-stats.demolab.com?user=tanisha-devs&hide_border=true&background=0d0d0d&ring=C1440E&fire=C1440E&currStreakLabel=C1440E&sideLabels=e7e3ef&currStreakNum=e7e3ef&sideNums=e7e3ef&dates=9a9a9a&stroke=0d0d0d" />
+<img height="165" src="https://streak-stats.demolab.com?user=Tanisha-codess&hide_border=true&background=0d0d0d&ring=C1440E&fire=C1440E&currStreakLabel=C1440E&sideLabels=e7e3ef&currStreakNum=e7e3ef&sideNums=e7e3ef&dates=9a9a9a&stroke=0d0d0d" />
 
 <br/>
 
-<img width="90%" src="https://ghchart.rshah.org/C1440E/tanisha-devs" alt="contribution graph" />
+<img width="90%" src="https://ghchart.rshah.org/C1440E/Tanisha-codess" alt="contribution graph" />
 
 </div>
 
@@ -141,7 +141,7 @@ achievements:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=tanisha-devs&style=flat-square&color=C1440E&labelColor=0d0d0d&label=connections+opened" />
+<img src="https://komarev.com/ghpvc/?username=Tanisha-codess&style=flat-square&color=C1440E&labelColor=0d0d0d&label=connections+opened" />
 
 </div>
 
